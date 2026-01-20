@@ -1,1 +1,1 @@
-# Treap
+# BST vs Treap
