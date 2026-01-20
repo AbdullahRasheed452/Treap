@@ -1,0 +1,10 @@
+Metric,BST,Treap
+Data Size,1000000,1000000
+Insert Time (ms),0,12238
+Search Time (ms),0,9.3599
+Delete Time (ms),0,1.0045
+getMostPopular (ms),0,0.0005
+getMostRecent (ms),0,4.3511
+Tree Height,0,52
+Balance Factor,0,-9
+Rotations,0,1000100
